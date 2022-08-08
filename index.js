@@ -29,4 +29,4 @@ const addCommit = (numberOfCommits) => {
 	});
 };
 
-addCommit(100);
+// addCommit(100);
